@@ -81,10 +81,10 @@ $(".meter > span").each(function () {
       function sendEmail() {
     Email.send({
       Host: "smtp.gmail.com",
-      Username: "work.prakharvasistha@gmail.com",
+      Username: "vasisthkrish@gmail.com",
       Password: "eiekorgsqjuxkhag",
-      To: 'vasistha.prakhar@gmail.com',
-      From: "work.prakharvasistha@gmail.com",
+      To: 'vasisthkrish92@gmail.com',
+      From: "vasisthkrish92gmail.com",
       Subject: "Sending Email using javascript",
       Body: "Well that was easy!!",
     })
